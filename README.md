@@ -1,32 +1,39 @@
 # Hacktudo OLX 2023
 
-**Grupo Bobx Construtor 2.0**
+<div align="center">
+  <a href="https://github.com/Leanddro13/Hack_OLX">
+    <img src="../Hack_OLX/img/logo.png" width="300" height="300">
+  </a>
 
-Membros:
+<h3 align="center">Bobx Construtores 2.0</h3>
+</div>
 
-Renan Araújo de Souza
+## Sobre o projeto
 
-Leandro Souza da Silva
-
-Pedro Henrique da Silva Melo
-
-Guilherme Storch de Oliveira
-
-Repositório criado com o objetivo de fazer um protótipo da nossa solução. Que seria a criação de uma Assistente virtual que auxilia o cliente na efetuação de compras na plataforma. Essa assistente se utilizaria das seguintes funcionalidades:
+No Hackthon foi idealizado a ideia de uma assistente virtual da OLX, que auxiliaria o cliente no site/app e na efetuação de compras. Porém, não seria possível criar tal assistente em um periodo tão curto, com isso foi criado um repositóriocom o objetivo de demonstrar algumas funcionalidades que essa assistente teria. Algumas dessas funcionalidades seriam:
 - Algoritmo de detecção de golpes(Pishing) utilizando de processamento natural de linguagem(NLP);
 - Algoritmo de detecção de objetos(Computer vision);
-- Algoritmo de reconhecimento de voz.
+- Algoritmo de transcrição de audio.
 
 
-<h1>Tecnologias</h1>
+## Tecnologias
 Código: Python
 
 Prototipação: Figma
 
 
-<h1>Telas:</h1>
+## Protótipo de alta fidelidade
 
+Foi realizado uma remodelagem no Aplicativo da OLX, para que se encaixasse com as nossas ideias propostas. Para ver esse protótipo basta [apertar aqui.](https://www.figma.com/file/V23TQmbBoy0bbermkPErqS/Bobx?type=design&node-id=0-1&mode=design&t=j5sN85fvZdJCHory-0)
 
-<img src="https://i.imgur.com/pTD4t1m.png" alt="tela" width='20%'> <img src="https://i.imgur.com/v2GWvMm.png" alt="tela2" width='20%'> <img src="https://i.imgur.com/Qw78lxz.png" alt="audio" width='20%'> <img src="https://i.imgur.com/jCi3FxS.png" alt="imagem" width='20%'> <img src="https://i.imgur.com/PORsvqx.png" alt="ze" width='20%'> <img src="https://i.imgur.com/ItEyWgF.png" alt="saiu" width='20%'> <img src="https://i.imgur.com/VvezAgl.png" alt="local" width='20%'> <img src="https://i.imgur.com/0hjpIVB.png" alt="produto" width='20%'>
+## How to run?
 
-<h1>Rodar os códigos:</h1>
+$ pip install -r requirements.txt
+
+Basta executar esse comando dentro de um ambiente desejado que todas as bibliotecas contidas no requirements serão instaladas.
+
+## Equipe
+
+| ![Guilherme Storch](https://avatars.githubusercontent.com/u/90935577?v=4) | ![Leandro Silva](https://github.com/Leanddro13.png) | ![Pedro Henrique](https://avatars.githubusercontent.com/u/88786258?v=4) | ![Renan Araújo](https://avatars.githubusercontent.com/u/111506459?v=4) |
+| --- | --- | --- | --- | 
+| [Guilherme Storch](https://avatars.githubusercontent.com/u/90935577?v=4) | [Leandro Silva](https://github.com/Leanddro13) | [Pedro Henrique](https://avatars.githubusercontent.com/u/88786258?v=4) | [Renan Araújo](https://avatars.githubusercontent.com/u/111506459?v=4) |
