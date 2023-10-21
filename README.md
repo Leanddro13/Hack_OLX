@@ -29,7 +29,7 @@ No Hackthon foi idealizado a ideia de uma assistente virtual da OLX, que auxilia
 
 ## 📊 Protótipo de alta fidelidade
 
-Foi realizado uma remodelagem no Aplicativo da OLX, para que se encaixasse com as nossas ideias propostas. Para ver esse protótipo basta [apertar aqui.](https://www.figma.com/file/V23TQmbBoy0bbermkPErqS/Bobx?type=design&node-id=0-1&mode=design&t=j5sN85fvZdJCHory-0)
+Foi realizado uma remodelagem no Aplicativo da OLX, para que se encaixasse com as nossas ideias propostas. Para ver esse protótipo basta [apertar aqui.](https://www.figma.com/file/V23TQmbBoy0bbermkPErqS/Bobx?type=design&node-id=0%3A1&mode=design&t=kIU5G4qnZOWbzAvg-1)
 
 ## 🛞 How to run?
 
