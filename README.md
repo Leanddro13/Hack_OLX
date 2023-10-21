@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Leanddro13/Hack_OLX">
-    <img src="../Hack_OLX/img/logo.png" width="300" height="300">
+    <img src="img/logo.png" width="300" height="300">
   </a>
 
 <h3 align="center">Bobx Construtores 2.0</h3>
@@ -16,10 +16,15 @@ No Hackthon foi idealizado a ideia de uma assistente virtual da OLX, que auxilia
 - Algoritmo de transcrição de audio.
 
 
-## Tecnologias
-Código: Python
+## 💻 Tecnologias
 
-Prototipação: Figma
+#### Tecnologias utilizadas neste projeto:
+
+<p align="center">
+		<img src="img/opencv.png" width="200"/>
+    <img src="img/spacy.png" width="100" height="100"/>
+	</a>
+</p>
 
 
 ## Protótipo de alta fidelidade
