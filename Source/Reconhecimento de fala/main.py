@@ -9,5 +9,5 @@ with sr.Microphone() as mic:
     texto = rec.recognize_google(audio, language="pt-BR")
     print(texto)
 
-with open('saida.txt', 'w') as arquivo:
+with open('../Hack_OLX/Source/Reconhecimento de fala/saida.txt', 'w') as arquivo:
     arquivo.write(texto)
