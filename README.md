@@ -10,7 +10,7 @@
 
 ## 📝 Sobre o projeto
 
-No Hackthon foi idealizado a ideia de uma assistente virtual da OLX, que auxiliaria o cliente no site/app e na efetuação de compras. Porém, não seria possível criar tal assistente em um periodo tão curto, com isso foi criado um repositóriocom o objetivo de demonstrar algumas funcionalidades que essa assistente teria. Algumas dessas funcionalidades seriam:
+No Hackthon foi idealizado a ideia de uma assistente virtual da OLX, que auxiliaria o cliente no site/app e na efetuação de compras. Porém, não seria possível criar tal assistente em um periodo tão curto, com isso foi criado um repositóri ocom o objetivo de demonstrar algumas funcionalidades que essa assistente teria. Algumas dessas funcionalidades seriam:
 - Algoritmo de detecção de golpes(Pishing) utilizando de processamento natural de linguagem(NLP);
 - Algoritmo de detecção de objetos(Computer vision);
 - Algoritmo de transcrição de audio.
