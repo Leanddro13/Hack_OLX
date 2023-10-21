@@ -27,6 +27,6 @@ Prototipação: Figma
 <h1>Telas:</h1>
 
 
-<img src="https://i.imgur.com/pTD4t1m.png" alt="tela" width='20%'> <img src="https://i.imgur.com/v2GWvMm.png" alt="tela2" width='20%'> <img src="https://i.imgur.com/Qw78lxz.png" alt="audio" width='20%'> <img src="https://i.imgur.com/jCi3FxS.png" alt="imagem" width='20%'> <img src="https://i.imgur.com/PORsvqx.png" alt="ze" width='20%'> <img src="https://i.imgur.com/ItEyWgF.png" alt="saiu" width='20%'> <img src="https://i.imgur.com/VvezAgl.png" alt="local" width='20%'> <img src="https://i.imgur.com/OkJW2XI.png" alt="produto" width='20%'>
+<img src="https://i.imgur.com/pTD4t1m.png" alt="tela" width='20%'> <img src="https://i.imgur.com/v2GWvMm.png" alt="tela2" width='20%'> <img src="https://i.imgur.com/Qw78lxz.png" alt="audio" width='20%'> <img src="https://i.imgur.com/jCi3FxS.png" alt="imagem" width='20%'> <img src="https://i.imgur.com/PORsvqx.png" alt="ze" width='20%'> <img src="https://i.imgur.com/ItEyWgF.png" alt="saiu" width='20%'> <img src="https://i.imgur.com/VvezAgl.png" alt="local" width='20%'> <img src="https://i.imgur.com/0hjpIVB.png" alt="produto" width='20%'>
 
 <h1>Rodar os códigos:</h1>
